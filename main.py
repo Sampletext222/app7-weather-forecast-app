@@ -51,7 +51,7 @@ with st.sidebar:
     st.caption(
         "**Portfolio Demo**\n\n"
         "Built with Python, Streamlit & Plotly.\n"
-        "Live meteorological data via OpenWeatherMap API.\n"
+        "Live meteorological data via OpenWeatherMap API.\n\n"
         "Created By Julian Soriano"
     )
 
