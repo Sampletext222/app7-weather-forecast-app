@@ -52,6 +52,7 @@ with st.sidebar:
         "**Portfolio Demo**\n\n"
         "Built with Python, Streamlit & Plotly. "
         "Live meteorological data via OpenWeatherMap API."
+        "Created By Julian Soriano"
     )
 
 # --- MAIN DASHBOARD ---
