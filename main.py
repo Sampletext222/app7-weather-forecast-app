@@ -50,8 +50,8 @@ with st.sidebar:
     st.divider()
     st.caption(
         "**Portfolio Demo**\n\n"
-        "Built with Python, Streamlit & Plotly. "
-        "Live meteorological data via OpenWeatherMap API."
+        "Built with Python, Streamlit & Plotly.\n"
+        "Live meteorological data via OpenWeatherMap API.\n"
         "Created By Julian Soriano"
     )
 
